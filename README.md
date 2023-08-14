@@ -3,7 +3,9 @@
 </div>
 
 # Hi there, I'm Lina! <img src='https://media.giphy.com/media/iDbDicWr95THaVsuIF/giphy.gif' width='70' height='70'/>
-### I'm a beginner web-developer. 
+### I'm a beginner web-developer. I have studied both Frontend and Backend JavaScript courses at Yandex Practucum.
+#### Looking for a job, improving my skills, studying new Web-development stuff!
+
 ### **My stack:**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
