@@ -18,6 +18,16 @@
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
+### **My contacts**
+
+| <img src="https://github.com/prettypolyana/prettypolyana/assets/104626679/65ce6613-4799-483a-a400-e46d4954174f" width="20px" height="20px"> | @letsstick |
+| - | - |
+| <img src="https://github.com/prettypolyana/prettypolyana/assets/104626679/80846fca-8a2f-4a8c-9f10-28d22c1477f0" width="20px" height="20px"> | pollyandrrrr@yandex.com |
+
+
+
+
+
 
 
 
